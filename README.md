@@ -58,4 +58,5 @@ worldwide, without royalty, in any medium, provided this notice is preserved."
 
 ### Acknowledgements
 
-- Thank you to [[ people who made the images I use ]]
+- Thank you to all of the webmasters and academics out there who inspired the
+"old school" design of this web site.
