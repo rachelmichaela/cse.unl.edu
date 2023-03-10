@@ -8,6 +8,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0)
 and this project adheres to [Calendar Versioning](https://calver.org) in the
 `YY.MM.MINOR` format.
 
+## [23.03.1] - 2023-03-09
+
+### Fixed
+- Updated the repository hyperlink to reflect removal of username in paths.
+
 ## [23.02.1] - 2023-02-19
 
 ### Fixed
